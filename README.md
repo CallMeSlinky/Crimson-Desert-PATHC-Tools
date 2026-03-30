@@ -55,3 +55,5 @@ The mapping metadata fields store the byte sizes of the first four mipmap levels
 2.  **Hash Table**: An array of sorted 32-bit CRC-like hashes for binary search.
 3.  **Map Entries**: Each 20-byte entry links a path hash to a DDS template index.
 4.  **Collision Blob**: Stores original path strings and indices only for cases where two different paths result in the same hash.
+
+<sub>[My Nexus Mods Profile](https://www.nexusmods.com/users/71868178)</sub>
